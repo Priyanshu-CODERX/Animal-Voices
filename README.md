@@ -6,11 +6,11 @@
 
 ##### Splash Screen
 
-<img src="https://raw.githubusercontent.com/Priyanshu-CODERX/Animal-Voices/main/splashscreen.jpg" alt="splashscreen" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/Priyanshu-CODERX/Animal-Voices/main/splashscreen.jpg" alt="splashscreen" width="200px" />
 
 ##### Home Screen
 
-<img src="https://raw.githubusercontent.com/Priyanshu-CODERX/Animal-Voices/main/home.jpg" alt="home" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/Priyanshu-CODERX/Animal-Voices/main/home.jpg" alt="home" width="200px" />
 
 # Learning
 
