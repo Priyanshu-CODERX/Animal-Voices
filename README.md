@@ -6,11 +6,11 @@
 
 ##### Splash Screen
 
-<img src="E:\Projects\React Native Projects\AnimalSounds\animal-voices\splashscreen.jpg" alt="splashscreen" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/Priyanshu-CODERX/Animal-Voices/main/splashscreen.jpg" alt="splashscreen" style="zoom:25%;" />
 
 ##### Home Screen
 
-<img src="E:\Projects\React Native Projects\AnimalSounds\animal-voices\home.jpg" alt="home" style="zoom:25%;" />
+<img src="https://raw.githubusercontent.com/Priyanshu-CODERX/Animal-Voices/main/home.jpg" alt="home" style="zoom:25%;" />
 
 # Learning
 
