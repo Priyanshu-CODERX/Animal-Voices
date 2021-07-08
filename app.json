@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Animal Voices",
+    "slug": "snack-3fcd7ece-7c65-4cf9-a6c9-ce990e874bb7",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/fox.png",
+    "splash": {
+      "image": "./assets/splash2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/fox.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.priyanshu.animalsound"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
